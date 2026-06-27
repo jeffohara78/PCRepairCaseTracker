@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "ComputerName": "Home Office Old PC",
+    "DeviceType": "Desktop",
+    "OperatingSystem": "Windows 10",
+    "MainProblem": "Won\u0027t boot, problems booting",
+    "Symptoms": "Fans spin, LEDs light up, but booting Windows either doesn\u0027t happen, or takes very long",
+    "WhenItStarted": "3 days ago",
+    "RecentChanges": "No recent changes to the pc",
+    "TroubleshootingStepsTried": "Restarted, but didn\u0027t restart, had to manually shutdown",
+    "TechnicianNotes": "",
+    "Severity": 4,
+    "Status": 1,
+    "CreatedDate": "2026-06-27T15:49:29.1061164-07:00"
+  }
+]

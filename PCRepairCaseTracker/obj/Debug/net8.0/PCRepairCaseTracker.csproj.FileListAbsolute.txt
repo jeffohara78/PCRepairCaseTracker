@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\bin\Debug\net8.0\PCRepairCaseTracker.exe
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\bin\Debug\net8.0\PCRepairCaseTracker.deps.json
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\bin\Debug\net8.0\PCRepairCaseTracker.runtimeconfig.json
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\bin\Debug\net8.0\PCRepairCaseTracker.dll
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\bin\Debug\net8.0\PCRepairCaseTracker.pdb
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.dll
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\refint\PCRepairCaseTracker.dll
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.pdb
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\PCRepairCaseTracker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\PCRepairCaseTracker\PCRepairCaseTracker\obj\Debug\net8.0\ref\PCRepairCaseTracker.dll
